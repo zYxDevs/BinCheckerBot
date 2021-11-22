@@ -1,0 +1,28 @@
+{
+    "name": "BIN Checker Bot",
+    "description": "A simple PHP powered BIN Checker Bot",
+    "keywords": [
+        "BIN",
+	"PHP",
+        "Checker",
+        "Bot"
+    ],
+    "website": "https://www.cyberindonesia001.xyz",
+    "repository": "https://github.com/zYxDevs/BinCheckerBot",
+    "success_url": "https://t.me/SpreadNetworks",
+    "env": {
+        "API_TOKEN": {
+            "description": "API Token , get it from @BotFather"
+        },
+        "START_MSG": {
+           "description": "Enter Custom Start Message"
+        }
+    },
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "image": "heroku/php"
+}
