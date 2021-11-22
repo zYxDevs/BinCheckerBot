@@ -1,6 +1,6 @@
 ## BIN Checker Bot
 
-Test Bot: [Bin Checker Bot](https://www.cyberindonesia001.xyz)
+Test Bot: [Bin Checker Bot](https://t.me/phpBinBot)
 
 ## Env
 
