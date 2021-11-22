@@ -10,16 +10,15 @@ Test Bot: [Bin Checker Bot](https://www.cyberindonesia001.xyz)
 ## Deploy
 
 ### Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zYxDevs/BinCheckerBot)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zYxDevs/BinCheckerBot)
 
-After Deploying App on Heroku - Setup Webhook
-
-How to Set WebHook?
-Copy Given Url (Below) And replace <Bot Token> With your Bot token And <your app name> with url heroku app name. 
-Then Just Paste It In Browser. 
+**Setup Webhook**<br>
+Copy this, replace `<Bot Token>` and `<your app name>` with your own value.
   
 `https://api.telegram.org/bot<Bot Token>/setWebhook?url=https://<your app name>.herokuapp.com/bot.php`
 
+### Railway
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FzYxDevs%2FBinCheckerBot&envs=API_TOKEN%2CSTART_MSG&API_TOKENDesc=Your+bot+token.&START_MSGDesc=Your+custom+start+message.&referralCode=AsunaRobot)
 
 ## Command
 
