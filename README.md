@@ -1,7 +1,5 @@
 # BIN Checker Bot
 
-PHP BIN Checker Bot
-
 Fetch Via: https://bins.su
 
 Web Version : [Click Here](https://binsu-api.vercel.app)
