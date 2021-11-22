@@ -45,7 +45,7 @@ if(strpos($message, "!bin") === 0){
  $brand = $data['data']['vendor'];
  $level = $data['data']['level'];
  $type = $data['data']['type'];
-$flag = $data['data']['countryInfo']['emoji'];
+ $flag = $data['data']['countryInfo']['emoji'];
  $result1 = $data['result'];
 
     if ($result1 == true) {
