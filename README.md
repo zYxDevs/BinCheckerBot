@@ -26,7 +26,7 @@ Copy this, replace `<Bot Token>` and `<your app name>` with your own value.
 
 ## Command
 
-`!bin <Your-xxxxxx-Bin>`
+`/bin <Your-xxxxxx-Bin>`
 
 ## 💰 Support me
 
