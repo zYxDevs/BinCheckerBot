@@ -26,9 +26,13 @@ Test Bot: [Bin Checker Bot](https://t.me/phpBinBot)
 ```
 
 **Setup Webhook**<br>
-Copy this, replace `<Bot Token>` and `<your app name>` with your own value.
-  
+Copy this, replace `<Bot Token>` and `<your app name>` with your own value then open on your browser.
+
+If Heroku:
 `https://api.telegram.org/bot<Bot Token>/setWebhook?url=https://<your app name>.herokuapp.com/bot.php`
+
+Other:
+`https://api.telegram.org/bot<Bot Token>/setWebhook?url=https://<your hosted url>/bot.php`
 
 ## Command
 
